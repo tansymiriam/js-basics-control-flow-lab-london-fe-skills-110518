@@ -17,6 +17,6 @@ return result
 
 function ternaryCheckCity(City) {
 
-    var city = person ? person.name : "stranger";
+    var city = NYC ? 'ok, sounds good' : "no go";
     return "Howdy, " + name;
 }
