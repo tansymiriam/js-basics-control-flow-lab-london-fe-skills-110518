@@ -15,4 +15,4 @@ function scuberGreetingForFeet(someValue) {
 return result
 }
 
-function ternaryCheckCity()
+function ternaryCheckCity(City)
