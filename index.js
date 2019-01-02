@@ -15,4 +15,8 @@ function scuberGreetingForFeet(someValue) {
 return result
 }
 
-function ternaryCheckCity(City)
+function ternaryCheckCity(City) {
+
+    var city = person ? person.name : "stranger";
+    return "Howdy, " + name;
+}
